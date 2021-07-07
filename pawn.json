@@ -5,7 +5,6 @@
 		{
 			"name": "PySAMP.tar.gz",
 			"platform": "linux",
-			"version": "0.3.7",
 			"archive": true,
 			"includes": [],
 			"plugins": [
@@ -17,41 +16,12 @@
 			}
 		},
 		{
-			"name": "PySAMP.tar.gz",
+			"name": "PySAMP.zip",
 			"platform": "windows",
-			"version": "0.3.7",
 			"archive": true,
 			"includes": [],
 			"plugins": [
 				"PySAMP.dll"
-			],
-			"files": {
-				"const.py": "python/const.py",
-				"samp.py": "python/samp.py"
-			}
-		},
-		{
-			"name": "PySAMP.zip",
-			"platform": "windows",
-			"version": "0.3.DL",
-			"archive": true,
-			"includes": [],
-			"plugins": [
-				"PySAMP.dll"
-			],
-			"files": {
-				"const.py": "python/const.py",
-				"samp.py": "python/samp.py"
-			}
-		},
-		{
-			"name": "PySAMP.zip",
-			"platform": "linux",
-			"version": "0.3.DL",
-			"archive": true,
-			"includes": [],
-			"plugins": [
-				"PySAMP.so"
 			],
 			"files": {
 				"const.py": "python/const.py",
