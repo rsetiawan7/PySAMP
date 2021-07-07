@@ -1,0 +1,67 @@
+{
+	"user": "habecker",
+	"repo": "PySAMP",
+	"resources": [
+		{
+			"name": "PySAMP.zip",
+			"platform": "linux",
+			"version": "0.3.7",
+			"archive": false,
+			"includes": [],
+			"plugins": [
+				"PySAMP.so"
+			],
+			"files": {
+				"const.py": "python/const.py",
+				"samp.py": "python/samp.py"
+			}
+		},
+		{
+			"name": "PySAMP.zip",
+			"platform": "windows",
+			"version": "0.3.7",
+			"archive": false,
+			"includes": [],
+			"plugins": [
+				"PySAMP.dll"
+			],
+			"files": {
+				"const.py": "python/const.py",
+				"samp.py": "python/samp.py"
+			}
+		},
+		{
+			"name": "PySAMP.zip",
+			"platform": "windows",
+			"version": "0.3.DL",
+			"archive": false,
+			"includes": [],
+			"plugins": [
+				"PySAMP.dll"
+			],
+			"files": {
+				"const.py": "python/const.py",
+				"samp.py": "python/samp.py"
+			}
+		},
+		{
+			"name": "PySAMP.zip",
+			"platform": "linux",
+			"version": "0.3.DL",
+			"archive": false,
+			"includes": [],
+			"plugins": [
+				"PySAMP.so"
+			],
+			"files": {
+				"const.py": "python/const.py",
+				"samp.py": "python/samp.py"
+			}
+		}
+	],
+	"contributors": [
+		"habecker",
+		"Cheaterman",
+		"dennorske"
+	]
+}
