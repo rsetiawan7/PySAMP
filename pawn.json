@@ -3,10 +3,10 @@
 	"repo": "PySAMP",
 	"resources": [
 		{
-			"name": "PySAMP.zip",
+			"name": "PySAMP.tar.gz",
 			"platform": "linux",
 			"version": "0.3.7",
-			"archive": false,
+			"archive": true,
 			"includes": [],
 			"plugins": [
 				"PySAMP.so"
@@ -17,10 +17,10 @@
 			}
 		},
 		{
-			"name": "PySAMP.zip",
+			"name": "PySAMP.tar.gz",
 			"platform": "windows",
 			"version": "0.3.7",
-			"archive": false,
+			"archive": true,
 			"includes": [],
 			"plugins": [
 				"PySAMP.dll"
@@ -34,7 +34,7 @@
 			"name": "PySAMP.zip",
 			"platform": "windows",
 			"version": "0.3.DL",
-			"archive": false,
+			"archive": true,
 			"includes": [],
 			"plugins": [
 				"PySAMP.dll"
@@ -48,7 +48,7 @@
 			"name": "PySAMP.zip",
 			"platform": "linux",
 			"version": "0.3.DL",
-			"archive": false,
+			"archive": true,
 			"includes": [],
 			"plugins": [
 				"PySAMP.so"
